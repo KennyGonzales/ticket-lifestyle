@@ -16,7 +16,7 @@ This tutorial outlines the lifestyle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Ticket Lifestyle Stages</h2>
 
 - Intake
 - Assignment and Communication
