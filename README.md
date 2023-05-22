@@ -71,7 +71,7 @@ As we address the issue of the `"entire mobile online banking being down"`, whic
 
 <p>
   
-Write here  
+The ticket has undergone updates, including re-assignment to `Jane Doe` from the support team, who was previously unassigned. Additionally, the ticket has been transferred from the **Support Department** to the **System Administrators Department**. 
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
