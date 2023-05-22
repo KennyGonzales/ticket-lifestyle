@@ -81,7 +81,7 @@ The ticket has undergone updates, including re-assignment to `Jane Doe` from the
 
 <p>
   
-Write here  
+The updated tickets, as shown in the previous image, indicate that they are assigned to `Jane Doe` and their priority has been changed to **Emergency**. 
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
