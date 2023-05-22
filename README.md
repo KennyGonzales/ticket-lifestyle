@@ -59,6 +59,48 @@ Upon logging into the system, the Help Desk Agent/Admin is presented with a view
 
 <p>
   
+**Working Issues:**
+  
+As we address the issue of the `"entire mobile online banking being down"`, which is considered a business impacting event, we will update the ticket's priority from the default **"Normal"** to **"Emergency"**. The following steps illustrate the process of changing the priority and updating the notes:  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
 Write here  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
