@@ -27,7 +27,7 @@ This tutorial outlines the lifestyle of a ticket from intake to resolution withi
 
 <p>
   
-Write here  
+The following illustrates the process that customers or end-users go through when creating a ticket to submit to the help desk.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -37,7 +37,7 @@ Write here
 
 <p>
   
-Write here  
+The customer is notified to acknowledge that their ticket or request has been successfully received.  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -47,7 +47,9 @@ Write here
 
 <p>
   
-Write here  
+**Intake:**
+  
+Upon logging into the system, the Help Desk Agent/Admin is presented with a view displaying the available tickets. These tickets may be either assigned or unassigned and are accompanied by their respective priorities. The priority of a ticket can be set by the Help Desk Agent or the queue manager responsible for handling the tickets. The displayed information includes the `Ticket number`, `Last Updated` timestamp, `Subject`, the user who created the ticket `(From)`, priority level, and the individual or team to whom the ticket is assigned `(Assigned To)`.  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
