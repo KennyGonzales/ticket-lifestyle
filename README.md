@@ -91,7 +91,9 @@ The updated tickets, as shown in the previous image, indicate that they are assi
 
 <p>
   
-Write here  
+**Resolution:**
+  
+After contacting with the `System Admin` team, we have received a response confirming that the ticket has been resolved. The ticket now contains comments that reflect the details of this resolution.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -101,7 +103,7 @@ Write here
 
 <p>
   
-Write here  
+As the ticket has been successfully resolved, it will now be moved to the **closed** tickets column to indicate its resolution.  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
