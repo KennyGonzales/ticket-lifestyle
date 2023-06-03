@@ -29,7 +29,7 @@ This tutorial outlines the lifestyle of a ticket from intake to resolution withi
   
 The following illustrates the process that customers or end-users go through when creating a ticket to submit to the help desk.
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pWVDBue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -39,7 +39,7 @@ The following illustrates the process that customers or end-users go through whe
   
 The customer is notified to acknowledge that their ticket or request has been successfully received.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Iiq2Nkg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
