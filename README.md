@@ -73,7 +73,8 @@ As we address the issue of the `"entire mobile online banking being down"`, whic
   
 The ticket has undergone updates, including re-assignment to `Jane Doe` from the support team, who was previously unassigned. Additionally, the ticket has been transferred from the **Support Department** to the **System Administrators Department**. 
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mx9LEYI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lwfOQvH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
@@ -83,7 +84,7 @@ The ticket has undergone updates, including re-assignment to `Jane Doe` from the
   
 The updated tickets, as shown in the previous image, indicate that they are assigned to `Jane Doe` and their priority has been changed to **Emergency**. 
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D5x8i9e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -95,7 +96,7 @@ The updated tickets, as shown in the previous image, indicate that they are assi
   
 After contacting with the `System Admin` team, we have received a response confirming that the ticket has been resolved. The ticket now contains comments that reflect the details of this resolution.
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zFQdUV6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -105,7 +106,7 @@ After contacting with the `System Admin` team, we have received a response confi
   
 As the ticket has been successfully resolved, it will now be moved to the **closed** tickets column to indicate its resolution.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PM3LH5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
