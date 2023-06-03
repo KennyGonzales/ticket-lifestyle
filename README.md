@@ -51,7 +51,7 @@ The customer is notified to acknowledge that their ticket or request has been su
   
 Upon logging into the system, the Help Desk Agent/Admin is presented with a view displaying the available tickets. These tickets may be either assigned or unassigned and are accompanied by their respective priorities. The priority of a ticket can be set by the Help Desk Agent or the queue manager responsible for handling the tickets. The displayed information includes the `Ticket number`, `Last Updated` timestamp, `Subject`, the user who created the ticket `(From)`, priority level, and the individual or team to whom the ticket is assigned `(Assigned To)`.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IXUV9qY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -63,7 +63,7 @@ Upon logging into the system, the Help Desk Agent/Admin is presented with a view
   
 As we address the issue of the `"entire mobile online banking being down"`, which is considered a business impacting event, we will update the ticket's priority from the default **"Normal"** to **"Emergency"**. The following steps illustrate the process of changing the priority and updating the notes:  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XSU6WLu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
